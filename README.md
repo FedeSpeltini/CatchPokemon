@@ -1,5 +1,5 @@
 
-# CatchPokenon
+# CatchPokemon
 
 CatchPokenon is a console application in Rust that allows capturing and storing Pokémon data using the Pokémon API and serializing the data in JSON.
 
