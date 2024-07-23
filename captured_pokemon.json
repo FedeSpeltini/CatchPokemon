@@ -1,0 +1,32 @@
+[
+  {
+    "id": 76,
+    "name": "golem",
+    "pokemon_type": "rock",
+    "pokemon_id": 76
+  },
+  {
+    "id": 53,
+    "name": "persian",
+    "pokemon_type": "normal",
+    "pokemon_id": 53
+  },
+  {
+    "id": 74,
+    "name": "geodude",
+    "pokemon_type": "rock",
+    "pokemon_id": 74
+  },
+  {
+    "id": 7,
+    "name": "squirtle",
+    "pokemon_type": "water",
+    "pokemon_id": 7
+  },
+  {
+    "id": 115,
+    "name": "kangaskhan",
+    "pokemon_type": "normal",
+    "pokemon_id": 115
+  }
+]
